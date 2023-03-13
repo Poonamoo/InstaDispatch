@@ -1,0 +1,12 @@
+- Import the project on "NETBEANS" ide 
+- Import '.jar' files not the class jar file that is "javaApplication2.jar" file
+- Search for the "BuiltConnection.java" file in the 'ide' and then in the variables 'name ' and  'password' give the values according to your database/MYSQL configuration
+=============================================================================================
+- configuring the "courier.sql" file into the sql database
+	. open "Mysql Command Line Client"
+	. type - create database courier;
+		 - source "File Path"/courier.sql
+		 
+	.hence the courier.sql file has been imported to the 'SQLDATABASE'
+	
+	//sakshams395@gmail.com
